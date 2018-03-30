@@ -1,3 +1,15 @@
-theme: jekyll-theme-midnight
 title: Una mente deshecha
-description: Tecnología y comunicación. ¿Quién dijo que hacer software fuera una ciencia exacta? 
+theme: jekyll-theme-midnight
+repository: guiwoda/guiwoda.github.io
+future: true
+
+gems:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji 
+
+owner:
+  name: "@guiwoda"
+  url: https://twitter.com/guiwoda

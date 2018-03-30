@@ -1,10 +1,10 @@
 ---
 layout: default
-title: guiwoda's blog
+title: Blog de Woda
 ---
 
 {% for post in site.posts %}
--   ({{ post.title }})[{{ post.url }}]
-    {{ post.excerpt }}
-    (→)[{{ post.url }}]
+-   [{{ post.title }}]({{ post.url }})
+    {{ post.excerpt }} 
+    [Seguir leyendo →]({{ post.url }})
 {% endfor %}
