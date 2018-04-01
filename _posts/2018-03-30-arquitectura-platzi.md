@@ -14,7 +14,7 @@ El curso de [Fundamentos de Arquitectura de Software](https://platzi.com/arquite
 
 Si estás avanzando en tu carrera como ingeniero de software, es imprescindible que puedas manejar temas de diseño y arquitectura de software para mejorar la calidad de tu trabajo y evitar los problemas típicos de un diseño inadecuado o poca atención a la arquitectura de un sistema.
 
-Por otro lado, el curso de [Profesional de Arquitectura de Software](https://platzi.com/software) profundiza sobre las herramientas de un arquitecto para investigar, analizar, decidir y evaluar una arquitectura. En este curso se ven temas como atributos de calidad, patrones de arquitectura, estrategias y tácticas para diseñar arquitecturas y modelado y documentación de arquitectura. 
+Por otro lado, el curso de [Profesional de Arquitectura de Software](https://platzi.com/software) profundiza sobre las herramientas de un arquitecto para investigar, analizar, decidir y evaluar una arquitectura. En este curso se ven temas como atributos de calidad, patrones de arquitectura, escenarios y tácticas para diseñar arquitecturas y modelado y documentación de arquitectura. 
 
 El curso de Profesional de Arquitectura de Software construye sobre el curso de Fundamentos y está orientado a un desarrollador de software que quiera dedicarse profesionalmente a la arquitectura. 
 
