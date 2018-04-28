@@ -2,6 +2,7 @@ title: Una mente deshecha
 theme: jekyll-theme-midnight
 repository: guiwoda/guiwoda.github.io
 future: true
+google_analytics: UA-89976619-1
 
 gems:
 - jekyll-github-metadata
